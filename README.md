@@ -71,7 +71,8 @@ paper-intro-optimizer/
 └── references/
     ├── checks.md            # 五类检查：证据匹配 / 论证逻辑 / 术语概念 / 结构 / 编号可追溯
     ├── templates.md         # 三件套模板、引用映射表、核查表、单条卡
-    └── casebook.md          # 12 条真实错例 + 通用自查顺序
+    ├── casebook.md          # 12 条真实错例 + 通用自查顺序
+    └── language-editing.md  # 内置语体润色：保真规则、五步流程、引言场景边界
 ```
 
 ## 安装
